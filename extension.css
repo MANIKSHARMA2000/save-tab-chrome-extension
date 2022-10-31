@@ -1,0 +1,51 @@
+body{
+    margin: 0px;
+    min-width: 400px;
+    min-height: 200px;
+    opacity: 80%;
+    background-image:url(photos/NocA.gif)
+}
+button{
+    margin: 5px;
+    color: white;
+    background-color: #5f9341;
+    width: 100px;
+    height: 50px;
+    border-radius: 2px;
+    border: none;
+    box-shadow: 2px 2px;
+    font-weight: bolder;
+}
+button:hover{
+    color: #5f9341;
+    background-color: beige;
+}
+input{
+    width: 90%;
+    border: 2px solid #5f9341;
+    padding: 10px 10px;
+    margin: 5px 5px 5px 5px;
+}
+p{
+    color: #5f9341;
+}
+ul{
+    font-size: larger;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    list-style: none;
+    padding-left: 4px;
+    
+}
+a{
+    color: #5f9341;
+    font-family: "Lucida Console", Courier, monospace;
+}
+#delete-btn{
+    background-color: beige;
+    color: #5f9341;
+}
+#delete-btn:hover{
+    color: white;
+    background-color: #5f9341;
+}
